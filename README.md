@@ -44,24 +44,24 @@ Keep your real API keys private. The `.env` file is excluded from Git.
 
 ### Crew starts researching
 
-![Crew execution and research task start](screenshots/Screenshot%202026-11-18%20220407.png)
+![Crew execution and research task start](screenshots/01-crew-research-start.png)
 
 ### Web search results
 
-![Serper search results during research](screenshots/Screenshot%202026-11-18%20220417.png)
+![Serper search results during research](screenshots/02-web-search-results.png)
 
 ### Research output
 
-![Research agent final answer](screenshots/Screenshot%202026-11-18%20220430.png)
+![Research agent final answer](screenshots/03-research-summary.png)
 
 ### Blog outline
 
-![Content analyst blog outline](screenshots/Screenshot%202026-11-18%20220443.png)
+![Content analyst blog outline](screenshots/04-blog-outline.png)
 
 ### Blog draft
 
-![Blog writer draft](screenshots/Screenshot%202026-11-18%20220452.png)
+![Blog writer draft](screenshots/05-blog-draft.png)
 
 ### Completed blog
 
-![Crew completion and final blog output](screenshots/Screenshot%202026-11-18%20220505.png)
+![Crew completion and final blog output](screenshots/06-final-blog-output.png)
